@@ -12,3 +12,19 @@ NullPointerException
 Contact
 
 [![Twitter URL](https://img.shields.io/twitter/follow/winter_729?style=social)](https://twitter.com/winter_729)
+
+
+
+
+
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198246311954/?cc=kr))*
+
+
+* **Worth:** ₩ 865420 (₩ 270605 with sales)
+
+* **Games owned:** 71
+
+* **Games played:** 24 *(33%)*
+
+* **Hours on record:** 1,533.5h
+
